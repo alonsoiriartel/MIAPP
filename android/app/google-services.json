@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77053154385",
+    "project_id": "app-de-salud-69bf7",
+    "storage_bucket": "app-de-salud-69bf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77053154385:android:e361df565e23ea60599470",
+        "android_client_info": {
+          "package_name": "com.example.mi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGRHtV_2N1x704DSy5OlqM8qn9MNY6WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
